@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Kotlin Android/Add Parcelable Implementation" />
+    <ignoreAction name="Kotlin/Introduce import alias" />
+  </component>
+</application>
