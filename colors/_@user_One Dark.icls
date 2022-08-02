@@ -3,7 +3,7 @@
     <property name="created">2022-07-24T22:29:55</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.2.1.15</property>
-    <property name="modified">2022-08-02T13:15:43</property>
+    <property name="modified">2022-08-02T14:40:52</property>
     <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
@@ -1232,9 +1232,19 @@
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
+    <option name="KOTLIN_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="a0bab5" />
+      </value>
+    </option>
     <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="d19a66" />
+      </value>
+    </option>
+    <option name="KOTLIN_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="d0c1c1" />
       </value>
     </option>
     <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
@@ -1260,6 +1270,11 @@
     <option name="KOTLIN_LABEL">
       <value>
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="d0c1c1" />
       </value>
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
