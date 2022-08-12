@@ -3,7 +3,7 @@
     <property name="created">2022-07-24T22:29:55</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.2.1.15</property>
-    <property name="modified">2022-08-10T11:13:35</property>
+    <property name="modified">2022-08-12T10:50:41</property>
     <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
@@ -977,6 +977,11 @@
       <value />
     </option>
     <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
+    <option name="Groovydoc comment">
+      <value>
+        <option name="FOREGROUND" value="c1c1c1" />
+      </value>
+    </option>
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -1448,6 +1453,11 @@
     <option name="LOG_WARNING_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e5c07b" />
+      </value>
+    </option>
+    <option name="Line comment">
+      <value>
+        <option name="FOREGROUND" value="c1c1c1" />
       </value>
     </option>
     <option name="List/map to object conversion">
