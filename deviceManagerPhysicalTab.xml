@@ -12,6 +12,17 @@
         <target value="Android 8.0" />
         <api value="26" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="24c3c3b8800d7ece" />
+          </Key>
+        </key>
+        <name value="samsung SM-N960N" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
