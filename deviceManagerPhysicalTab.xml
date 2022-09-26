@@ -5,17 +5,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="ce12160cfdea285d0c" />
-          </Key>
-        </key>
-        <name value="samsung SM-G930K" />
-        <target value="Android 8.0" />
-        <api value="26" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="24c3c3b8800d7ece" />
           </Key>
         </key>
@@ -27,12 +16,34 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="ce12160cfdea285d0c" />
+          </Key>
+        </key>
+        <name value="samsung SM-G930K" />
+        <target value="Android 8.0" />
+        <api value="26" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="2172e43433047ece" />
           </Key>
         </key>
         <name value="samsung SM-G960N" />
         <target value="Android 10.0" />
         <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:62001" />
+          </Key>
+        </key>
+        <name value="samsung SM-G9550" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
