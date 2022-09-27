@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine createSearchingSpotJob" />
+    <option name="mostRecentlyUsed" value="package:mine crea" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine crea" />
         <option value="package:mine createSearchingSpotJob" />
         <option value="package:mine MainFragment " />
         <option value="MainFragment" />
