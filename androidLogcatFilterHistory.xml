@@ -6,9 +6,12 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine authenticate" />
+    <option name="mostRecentlyUsed" value="NaverMapActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="NaverMapActivity" />
+        <option value="package:mine " />
+        <option value="package:mine onDestroy" />
         <option value="package:mine authenticate" />
         <option value="package:mine refreshToken" />
         <option value="package:mine MainFragment " />
@@ -18,7 +21,6 @@
         <option value="package:mine Main tag:MainActivity tag:MainFragment" />
         <option value="package:mine Main" />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="package:mine MainFragment" />
         <option value="package:mine crea" />
         <option value="package:mine createSearchingSpotJob" />
