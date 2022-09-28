@@ -6,11 +6,11 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag: MapActivity tag:MainHomeFragment  on" />
+    <option name="mostRecentlyUsed" value="tag: MapActivity tag:MainHomeFragment  " />
     <option name="nonFavorites">
       <list>
-        <option value="tag: MapActivity tag:MainHomeFragment  on" />
         <option value="tag: MapActivity tag:MainHomeFragment  " />
+        <option value="tag: MapActivity tag:MainHomeFragment  on" />
         <option value="NaverMapActivity" />
         <option value="package:mine " />
         <option value="package:mine onDestroy" />
