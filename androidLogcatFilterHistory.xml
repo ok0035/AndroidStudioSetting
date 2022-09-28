@@ -6,9 +6,11 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:MainActivity tag:MainHomeFragment level:DEBUG " />
+    <option name="mostRecentlyUsed" value="package:mine authenticate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine authenticate" />
+        <option value="package:mine refreshToken" />
         <option value="package:mine MainFragment " />
         <option value="package:mine tag:MainActivity tag:MainFragment level:debug" />
         <option value="package:mine MainFragment|MainActivity" />
