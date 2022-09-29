@@ -6,9 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag: MapActivity tag:MainHomeFragment  " />
+    <option name="mostRecentlyUsed" value="screen length" />
     <option name="nonFavorites">
       <list>
+        <option value="screen length" />
         <option value="tag: MapActivity tag:MainHomeFragment  " />
         <option value="tag: MapActivity tag:MainHomeFragment  on" />
         <option value="NaverMapActivity" />
