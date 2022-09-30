@@ -6,12 +6,12 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:MainActivity tag:MainHomeFragment on" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:MainActivity tag:MainHomeFragment on" />
         <option value="package:mine tag:MainActivity tag:MainHomeFragment " />
-        <option value="package:mine " />
         <option value="package:mine change type" />
         <option value="screen length" />
         <option value="tag: MapActivity tag:MainHomeFragment  " />
