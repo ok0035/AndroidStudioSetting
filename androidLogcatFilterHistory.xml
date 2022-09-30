@@ -6,9 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine tag:MainActivity tag:PopShopFragment " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:MainActivity tag:PopShopFragment " />
         <option value="package:mine " />
         <option value="package:mine tag:MainActivity tag:MainHomeFragment on" />
         <option value="package:mine tag:MainActivity tag:MainHomeFragment " />
@@ -28,7 +29,6 @@
         <option value="package:mine Main" />
         <option value="package:mine" />
         <option value="package:mine MainFragment" />
-        <option value="package:mine crea" />
       </list>
     </option>
   </component>
