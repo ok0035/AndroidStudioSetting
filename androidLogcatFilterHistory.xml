@@ -6,9 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine tag:MainHomeFragment tag:NaverMapActivity " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:MainHomeFragment tag:NaverMapActivity " />
         <option value="package:mine " />
         <option value="package:mine tag:MainActivity tag:PopShopFragment on" />
         <option value="package:mine tag:MainActivity tag:PopShopFragment " />
@@ -28,7 +29,6 @@
         <option value="package:mine Main tag:&lt;MainActivity&gt; tag:MainFragment" />
         <option value="package:mine Main tag:MainActivity tag:MainFragment" />
         <option value="package:mine Main" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
