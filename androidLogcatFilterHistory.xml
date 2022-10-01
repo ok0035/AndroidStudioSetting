@@ -6,9 +6,11 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine 동영상" />
+    <option name="mostRecentlyUsed" value="package:mine 그라운드다" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 그라운드다" />
+        <option value="package:mine 그리고" />
         <option value="package:mine 동영상" />
         <option value="package:mine " />
         <option value="package:mine tag:SectionSpotFragment " />
@@ -27,8 +29,6 @@
         <option value="package:mine onDestroy" />
         <option value="package:mine authenticate" />
         <option value="package:mine refreshToken" />
-        <option value="package:mine MainFragment " />
-        <option value="package:mine tag:MainActivity tag:MainFragment level:debug" />
       </list>
     </option>
   </component>
