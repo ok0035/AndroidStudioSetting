@@ -6,8 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine tag:SectionSpotFragment " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:SectionSpotFragment " />
         <option value="package:mine" />
         <option value="package:mine tag:MainHomeRecyclerViewAdapter " />
         <option value="package:mine tag:MainHomeFragment tag:NaverMapActivity " />
@@ -27,7 +29,6 @@
         <option value="package:mine MainFragment " />
         <option value="package:mine tag:MainActivity tag:MainFragment level:debug" />
         <option value="package:mine MainFragment|MainActivity" />
-        <option value="package:mine Main tag:&lt;MainActivity&gt; tag:MainFragment" />
       </list>
     </option>
   </component>
