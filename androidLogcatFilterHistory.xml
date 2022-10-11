@@ -6,11 +6,11 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine create" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine create" />
         <option value="package:mine " />
+        <option value="package:mine create" />
         <option value="package:mine naver sch" />
         <option value="package:mine kakao 길찾기" />
         <option value="package:mine kakao" />
