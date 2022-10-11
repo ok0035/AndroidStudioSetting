@@ -6,13 +6,15 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine 그라운드다" />
+    <option name="mostRecentlyUsed" value="package:mine kakao 길찾기" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine kakao 길찾기" />
+        <option value="package:mine kakao" />
+        <option value="package:mine " />
         <option value="package:mine 그라운드다" />
         <option value="package:mine 그리고" />
         <option value="package:mine 동영상" />
-        <option value="package:mine " />
         <option value="package:mine tag:SectionSpotFragment " />
         <option value="package:mine" />
         <option value="package:mine tag:MainHomeRecyclerViewAdapter " />
@@ -27,8 +29,6 @@
         <option value="tag: MapActivity tag:MainHomeFragment  on" />
         <option value="NaverMapActivity" />
         <option value="package:mine onDestroy" />
-        <option value="package:mine authenticate" />
-        <option value="package:mine refreshToken" />
       </list>
     </option>
   </component>
