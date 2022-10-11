@@ -6,9 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine naver sch" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine naver sch" />
         <option value="package:mine " />
         <option value="package:mine kakao 길찾기" />
         <option value="package:mine kakao" />
@@ -28,7 +29,6 @@
         <option value="tag: MapActivity tag:MainHomeFragment  " />
         <option value="tag: MapActivity tag:MainHomeFragment  on" />
         <option value="NaverMapActivity" />
-        <option value="package:mine onDestroy" />
       </list>
     </option>
   </component>
