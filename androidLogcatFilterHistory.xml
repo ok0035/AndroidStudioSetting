@@ -6,9 +6,15 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine LoginEmail" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine LoginEmail" />
+        <option value="package:mine Login Email" />
+        <option value="package:mine 이메일 로그인" />
+        <option value="package:mine is Logi" />
+        <option value="package:mine is L" />
+        <option value="package:mine agreement" />
         <option value="package:mine " />
         <option value="package:mine create" />
         <option value="package:mine naver sch" />
@@ -23,12 +29,6 @@
         <option value="package:mine tag:MainHomeFragment tag:NaverMapActivity " />
         <option value="package:mine tag:MainActivity tag:PopShopFragment on" />
         <option value="package:mine tag:MainActivity tag:PopShopFragment " />
-        <option value="package:mine tag:MainActivity tag:MainHomeFragment on" />
-        <option value="package:mine tag:MainActivity tag:MainHomeFragment " />
-        <option value="package:mine change type" />
-        <option value="screen length" />
-        <option value="tag: MapActivity tag:MainHomeFragment  " />
-        <option value="tag: MapActivity tag:MainHomeFragment  on" />
       </list>
     </option>
   </component>
