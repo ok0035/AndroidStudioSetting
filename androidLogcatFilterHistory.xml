@@ -6,9 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine SpotDetailFullFragment" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine SpotDetailFullFragment" />
         <option value="package:mine" />
         <option value="package:mine tag:SpotDetailFullFragment" />
@@ -16,7 +17,6 @@
         <option value="package:mine tag:MainHomeFragment" />
         <option value="package:mine type" />
         <option value="package:mine bottomSheetBehavior" />
-        <option value="package:mine " />
         <option value="package:mine LoginEmail" />
         <option value="package:mine Login Email" />
         <option value="package:mine 이메일 로그인" />
