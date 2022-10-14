@@ -6,9 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine bottomSheetBehavior" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine bottomSheetBehavior" />
         <option value="package:mine " />
         <option value="package:mine LoginEmail" />
         <option value="package:mine Login Email" />
@@ -28,7 +29,6 @@
         <option value="package:mine tag:MainHomeRecyclerViewAdapter " />
         <option value="package:mine tag:MainHomeFragment tag:NaverMapActivity " />
         <option value="package:mine tag:MainActivity tag:PopShopFragment on" />
-        <option value="package:mine tag:MainActivity tag:PopShopFragment " />
       </list>
     </option>
   </component>
