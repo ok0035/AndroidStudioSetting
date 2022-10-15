@@ -6,9 +6,12 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine D " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine D " />
+        <option value="package:mine D login" />
+        <option value="package:mine 로그인" />
         <option value="package:mine " />
         <option value="package:mine SpotDetailFullFragment" />
         <option value="package:mine" />
@@ -26,9 +29,6 @@
         <option value="package:mine create" />
         <option value="package:mine naver sch" />
         <option value="package:mine kakao 길찾기" />
-        <option value="package:mine kakao" />
-        <option value="package:mine 그라운드다" />
-        <option value="package:mine 그리고" />
       </list>
     </option>
   </component>
