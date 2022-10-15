@@ -1,9 +1,34 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="favorites">
+      <list>
+        <option value="package:mine tag:MainActivity tag:MainHomeFragment level:DEBUG " />
+        <option value="package:mine MainFragment |MainActivity " />
+      </list>
+    </option>
     <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine SpotDetailFullFragment" />
+        <option value="package:mine" />
+        <option value="package:mine tag:SpotDetailFullFragment" />
+        <option value="package:mine tag:SpotDetail" />
+        <option value="package:mine tag:MainHomeFragment" />
+        <option value="package:mine type" />
+        <option value="package:mine bottomSheetBehavior" />
+        <option value="package:mine LoginEmail" />
+        <option value="package:mine Login Email" />
+        <option value="package:mine 이메일 로그인" />
+        <option value="package:mine is Logi" />
+        <option value="package:mine is L" />
+        <option value="package:mine agreement" />
+        <option value="package:mine create" />
+        <option value="package:mine naver sch" />
+        <option value="package:mine kakao 길찾기" />
+        <option value="package:mine kakao" />
+        <option value="package:mine 그라운드다" />
+        <option value="package:mine 그리고" />
       </list>
     </option>
   </component>
