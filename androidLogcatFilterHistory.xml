@@ -6,9 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine tag:SpotDescTypeViewHolder" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:SpotDescTypeViewHolder" />
         <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine D " />
@@ -28,7 +29,6 @@
         <option value="package:mine agreement" />
         <option value="package:mine create" />
         <option value="package:mine naver sch" />
-        <option value="package:mine kakao 길찾기" />
       </list>
     </option>
   </component>
