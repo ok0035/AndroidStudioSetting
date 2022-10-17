@@ -6,10 +6,12 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine m3u8" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine m3u8" />
         <option value="package:mine " />
+        <option value="package:mine format" />
         <option value="package:mine 캐시" />
         <option value="package:mine" />
         <option value="package:mine D " />
@@ -27,8 +29,6 @@
         <option value="package:mine is Logi" />
         <option value="package:mine is L" />
         <option value="package:mine agreement" />
-        <option value="package:mine create" />
-        <option value="package:mine naver sch" />
       </list>
     </option>
   </component>
