@@ -6,11 +6,11 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine 캐시" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine 캐시" />
         <option value="package:mine " />
+        <option value="package:mine 캐시" />
         <option value="package:mine" />
         <option value="package:mine D " />
         <option value="package:mine D login" />
