@@ -6,11 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:SpotDescTypeViewHolder tag:VideoUtil" />
+    <option name="mostRecentlyUsed" value="package:mine 캐시" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:SpotDescTypeViewHolder tag:VideoUtil" />
-        <option value="package:mine tag:SpotDescTypeViewHolder" />
+        <option value="package:mine 캐시" />
         <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine D " />
@@ -29,6 +28,7 @@
         <option value="package:mine is L" />
         <option value="package:mine agreement" />
         <option value="package:mine create" />
+        <option value="package:mine naver sch" />
       </list>
     </option>
   </component>
