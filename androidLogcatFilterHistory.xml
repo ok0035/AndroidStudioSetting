@@ -6,22 +6,13 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:SpotDetailFragment tag:VideoUtil " />
+    <option name="mostRecentlyUsed" value="package:mine m3u8" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:SpotDetailFragment tag:VideoUtil " />
-        <option value="package:mine tag:SpotDetailFragment" />
-        <option value="package:mine tag:SpotDetailFragment tag:VideoUtil" />
-        <option value="package:mine tag:SpotDetailFragment " />
-        <option value="package:mine SpotDetailFragment" />
-        <option value="package:mine Spot" />
-        <option value="package:mine play" />
-        <option value="package:mine tag:VisiblePositionListener tag:MainHomeFragment tag:SpotDescTypeAdapter$SpotViewHolder " />
-        <option value="package:mine tag:VisiblePositionListener tag:MainHomeFragment " />
-        <option value="package:mine invisible" />
-        <option value="package:mine player" />
-        <option value="package:mine 캐시" />
+        <option value="package:mine m3u8" />
         <option value="package:mine " />
+        <option value="package:mine format" />
+        <option value="package:mine 캐시" />
         <option value="package:mine" />
         <option value="package:mine D " />
         <option value="package:mine D login" />
@@ -29,6 +20,15 @@
         <option value="package:mine SpotDetailFullFragment" />
         <option value="package:mine tag:SpotDetailFullFragment" />
         <option value="package:mine tag:SpotDetail" />
+        <option value="package:mine tag:MainHomeFragment" />
+        <option value="package:mine type" />
+        <option value="package:mine bottomSheetBehavior" />
+        <option value="package:mine LoginEmail" />
+        <option value="package:mine Login Email" />
+        <option value="package:mine 이메일 로그인" />
+        <option value="package:mine is Logi" />
+        <option value="package:mine is L" />
+        <option value="package:mine agreement" />
       </list>
     </option>
   </component>
