@@ -6,9 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:VisiblePositionListener tag:MainHomeFragment " />
+    <option name="mostRecentlyUsed" value="package:mine tag:VisiblePositionListener tag:MainHomeFragment tag:SpotDescTypeAdapter$SpotViewHolder " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:VisiblePositionListener tag:MainHomeFragment tag:SpotDescTypeAdapter$SpotViewHolder " />
         <option value="package:mine tag:VisiblePositionListener tag:MainHomeFragment " />
         <option value="package:mine invisible" />
         <option value="package:mine player" />
@@ -28,7 +29,6 @@
         <option value="package:mine Login Email" />
         <option value="package:mine 이메일 로그인" />
         <option value="package:mine is Logi" />
-        <option value="package:mine is L" />
       </list>
     </option>
   </component>
