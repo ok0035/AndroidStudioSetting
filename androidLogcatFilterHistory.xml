@@ -6,9 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:SpotDetailFragment tag:VideoUtil" />
+    <option name="mostRecentlyUsed" value="package:mine tag:SpotDetailFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:SpotDetailFragment" />
         <option value="package:mine tag:SpotDetailFragment tag:VideoUtil" />
         <option value="package:mine tag:SpotDetailFragment " />
         <option value="package:mine SpotDetailFragment" />
@@ -28,7 +29,6 @@
         <option value="package:mine tag:SpotDetailFullFragment" />
         <option value="package:mine tag:SpotDetail" />
         <option value="package:mine tag:MainHomeFragment" />
-        <option value="package:mine type" />
       </list>
     </option>
   </component>
