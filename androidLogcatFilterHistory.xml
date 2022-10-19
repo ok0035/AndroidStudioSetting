@@ -6,11 +6,11 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:SpotDetailFragment tag:VideoUtil tag:SpotDetailActivity " />
+    <option name="mostRecentlyUsed" value="package:mine tag:SpotDetailFragment tag:VideoUtil " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:SpotDetailFragment tag:VideoUtil tag:SpotDetailActivity " />
         <option value="package:mine tag:SpotDetailFragment tag:VideoUtil " />
+        <option value="package:mine tag:SpotDetailFragment tag:VideoUtil tag:SpotDetailActivity " />
         <option value="package:mine m3u8" />
         <option value="package:mine " />
         <option value="package:mine format" />
