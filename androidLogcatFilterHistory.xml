@@ -9,6 +9,7 @@
     <option name="mostRecentlyUsed" value="package:mine m3u8" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:SpotDetailFragment tag:VideoUtil " />
         <option value="package:mine m3u8" />
         <option value="package:mine " />
         <option value="package:mine format" />
@@ -28,7 +29,6 @@
         <option value="package:mine 이메일 로그인" />
         <option value="package:mine is Logi" />
         <option value="package:mine is L" />
-        <option value="package:mine agreement" />
       </list>
     </option>
   </component>
