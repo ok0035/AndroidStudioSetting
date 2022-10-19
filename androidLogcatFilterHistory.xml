@@ -6,9 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:SpotDetailFragment tag:VideoUtil " />
+    <option name="mostRecentlyUsed" value="package:mine tag:PurchaseContentImageVideoAdapter " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PurchaseContentImageVideoAdapter " />
         <option value="package:mine tag:SpotDetailFragment tag:VideoUtil " />
         <option value="package:mine tag:SpotDetailFragment tag:VideoUtil is" />
         <option value="package:mine tag:SpotDetailFragment tag:VideoUtil setFull" />
@@ -28,7 +29,6 @@
         <option value="package:mine tag:MainHomeFragment" />
         <option value="package:mine type" />
         <option value="package:mine bottomSheetBehavior" />
-        <option value="package:mine LoginEmail" />
       </list>
     </option>
   </component>
