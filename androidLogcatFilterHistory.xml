@@ -6,8 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine tag:VideoUtil " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:VideoUtil " />
         <option value="package:mine" />
         <option value="package:mine tag:PurchaseContentListAdapter " />
         <option value="package:mine tag:PurchaseContentImageVideoAdapter tag:PurchaseContentListAdapter " />
@@ -27,7 +29,6 @@
         <option value="package:mine D " />
         <option value="package:mine D login" />
         <option value="package:mine 로그인" />
-        <option value="package:mine SpotDetailFullFragment" />
       </list>
     </option>
   </component>
