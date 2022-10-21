@@ -6,9 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:VideoUtil tag:MainActivity tag:MainHomeFragment " />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:VideoUtil tag:MainActivity tag:MainHomeFragment " />
         <option value="package:mine tag:VideoUtil tag:MainActivity on" />
         <option value="package:mine tag:VideoUtil tag:MainActivity " />
@@ -26,7 +27,6 @@
         <option value="package:mine tag:SpotDetailFragment tag:VideoUtil set" />
         <option value="package:mine tag:SpotDetailFragment tag:VideoUtil tag:SpotDetailActivity " />
         <option value="package:mine m3u8" />
-        <option value="package:mine " />
         <option value="package:mine format" />
         <option value="package:mine 캐시" />
       </list>
