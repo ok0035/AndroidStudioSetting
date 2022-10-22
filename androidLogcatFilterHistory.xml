@@ -6,29 +6,29 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine m3u8" />
+    <option name="mostRecentlyUsed" value="package:mine tag:VideoUtil tag:MainHomeRecyclerViewAdapter" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine m3u8" />
+        <option value="package:mine tag:VideoUtil tag:MainHomeRecyclerViewAdapter" />
+        <option value="package:mine tag:VideoUtil tag:MainHomeRecyclerViewAdapter url -&gt; null" />
+        <option value="package:mine tag:VideoUtil tag:MainHomeRecyclerViewAdapter " />
+        <option value="package:mine tag:VideoUtil " />
         <option value="package:mine " />
-        <option value="package:mine format" />
-        <option value="package:mine 캐시" />
+        <option value="package:mine tag:VideoUtil tag:MainActivity tag:MainHomeFragment " />
+        <option value="package:mine tag:VideoUtil tag:MainActivity on" />
+        <option value="package:mine tag:VideoUtil tag:MainActivity " />
         <option value="package:mine" />
-        <option value="package:mine D " />
-        <option value="package:mine D login" />
-        <option value="package:mine 로그인" />
-        <option value="package:mine SpotDetailFullFragment" />
-        <option value="package:mine tag:SpotDetailFullFragment" />
-        <option value="package:mine tag:SpotDetail" />
-        <option value="package:mine tag:MainHomeFragment" />
-        <option value="package:mine type" />
-        <option value="package:mine bottomSheetBehavior" />
-        <option value="package:mine LoginEmail" />
-        <option value="package:mine Login Email" />
-        <option value="package:mine 이메일 로그인" />
-        <option value="package:mine is Logi" />
-        <option value="package:mine is L" />
-        <option value="package:mine agreement" />
+        <option value="package:mine tag:PurchaseContentListAdapter " />
+        <option value="package:mine tag:PurchaseContentImageVideoAdapter tag:PurchaseContentListAdapter " />
+        <option value="package:mine tag:PurchaseContentImageVideoAdapter tag:VideoUtil tag:PurchaseContentListAdapter " />
+        <option value="package:mine tag:PurchaseContentImageVideoAdapter tag:VideoUtil " />
+        <option value="package:mine tag:PurchaseContentImageVideoAdapter " />
+        <option value="package:mine tag:PurchaseInfoActivity" />
+        <option value="package:mine tag:SpotDetailFragment tag:VideoUtil " />
+        <option value="package:mine tag:SpotDetailFragment tag:VideoUtil is" />
+        <option value="package:mine tag:SpotDetailFragment tag:VideoUtil setFull" />
+        <option value="package:mine tag:SpotDetailFragment tag:VideoUtil set" />
+        <option value="package:mine tag:SpotDetailFragment tag:VideoUtil tag:SpotDetailActivity " />
       </list>
     </option>
   </component>
