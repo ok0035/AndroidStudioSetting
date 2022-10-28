@@ -6,13 +6,14 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:MainActivity " />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine migration" />
         <option value="package:mine tag:MainActivity " />
         <option value="package:mine Error" />
         <option value="package:mine Error r" />
-        <option value="package:mine " />
         <option value="package:mine tag:MainActivity tag:SplashActivity" />
         <option value="package:mine tag:MainActivity tag:SplashActivity$onCreate " />
         <option value=" tag:MainHomeFragment" />
@@ -28,7 +29,6 @@
         <option value="package:mine tag:VideoUtil tag:MainActivity " />
         <option value="package:mine" />
         <option value="package:mine tag:PurchaseContentListAdapter " />
-        <option value="package:mine tag:PurchaseContentImageVideoAdapter tag:PurchaseContentListAdapter " />
       </list>
     </option>
   </component>
