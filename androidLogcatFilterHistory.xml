@@ -6,12 +6,12 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine migration" />
+    <option name="mostRecentlyUsed" value="package:mine tag:MainActivity " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:MainActivity " />
         <option value="package:mine migration" />
         <option value="package:mine " />
-        <option value="package:mine tag:MainActivity " />
         <option value="package:mine Error" />
         <option value="package:mine Error r" />
         <option value="package:mine tag:MainActivity tag:SplashActivity" />
