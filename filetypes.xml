@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="jsontest2" type="AUTO_DETECTED" />
       <mapping pattern="jsontest2.json" type="AUTO_DETECTED" />
+      <mapping pattern="location_data_store.proto" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
