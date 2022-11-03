@@ -9,7 +9,6 @@
       <mapping ext="main.kts" type="Kotlin" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
-      <removed_mapping ext="proto" approved="true" type="AUTO_DETECTED" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>

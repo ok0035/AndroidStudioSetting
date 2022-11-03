@@ -6,13 +6,17 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:MainActivity is" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine datastore" />
+        <option value="package:mine" />
+        <option value="package:mine LoginViewModel's" />
+        <option value="package:mine read base" />
         <option value="package:mine tag:MainActivity is" />
         <option value="package:mine migration" />
         <option value="package:mine tag:MainActivity " />
-        <option value="package:mine " />
         <option value="package:mine Error" />
         <option value="package:mine Error r" />
         <option value="package:mine tag:MainActivity tag:SplashActivity" />
@@ -25,10 +29,6 @@
         <option value="package:mine tag:VideoUtil tag:MainHomeRecyclerViewAdapter url -&gt; null" />
         <option value="package:mine tag:VideoUtil tag:MainHomeRecyclerViewAdapter " />
         <option value="package:mine tag:VideoUtil " />
-        <option value="package:mine tag:VideoUtil tag:MainActivity tag:MainHomeFragment " />
-        <option value="package:mine tag:VideoUtil tag:MainActivity on" />
-        <option value="package:mine tag:VideoUtil tag:MainActivity " />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
