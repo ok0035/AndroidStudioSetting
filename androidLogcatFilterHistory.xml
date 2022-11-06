@@ -6,8 +6,13 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine review" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine review" />
+        <option value="package:mine requestAll" />
+        <option value="package:mine tag:SpotDetailActivity " />
+        <option value="package:mine tag:SpotDetailActivity" />
         <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine datastore" />
@@ -24,10 +29,6 @@
         <option value="package:mine tag:MainHomeFragment on" />
         <option value="package:mine tag:MainHomeFragment " />
         <option value="package:mine onPause" />
-        <option value="package:mine tag:VideoUtil tag:MainHomeRecyclerViewAdapter" />
-        <option value="package:mine tag:VideoUtil tag:MainHomeRecyclerViewAdapter url -&gt; null" />
-        <option value="package:mine tag:VideoUtil tag:MainHomeRecyclerViewAdapter " />
-        <option value="package:mine tag:VideoUtil " />
       </list>
     </option>
   </component>
