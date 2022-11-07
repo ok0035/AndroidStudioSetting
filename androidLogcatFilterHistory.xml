@@ -6,9 +6,15 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:DEBUG tag:ViewRootImpl@6e15b23[PurchaseInfoActivity] " />
+    <option name="mostRecentlyUsed" value="package:mine level:DEBUG getPur" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:DEBUG getPur" />
+        <option value="package:mine level:DEBUG" />
+        <option value="package:mine level:DEBUG tag:PurchaseInfoActivity tag:PurchaseInfoViewModel tag:PopShopAdapter tag:PopShopFragment " />
+        <option value="package:mine level:DEBUG tag:PurchaseInfoActivity tag:PurchaseInfoViewModel" />
+        <option value="package:mine level:DEBUG tag:PurchaseInfoActivity" />
+        <option value="package:mine level:DEBUG tag:ViewRootImpl@6e15b23[PurchaseInfoActivity] tag:PopShopAdapter" />
         <option value="package:mine level:DEBUG tag:ViewRootImpl@6e15b23[PurchaseInfoActivity] " />
         <option value="package:mine level:DEBUG " />
         <option value="package:mine tag:SpotDetailActivity tag:SpotDetailViewModel level:DEBUG " />
@@ -23,12 +29,6 @@
         <option value="package:mine tag:SpotDetailActivity " />
         <option value="package:mine tag:SpotDetailActivity" />
         <option value="package:mine datastore" />
-        <option value="package:mine LoginViewModel's" />
-        <option value="package:mine read base" />
-        <option value="package:mine tag:MainActivity is" />
-        <option value="package:mine migration" />
-        <option value="package:mine tag:MainActivity " />
-        <option value="package:mine Error" />
       </list>
     </option>
   </component>
