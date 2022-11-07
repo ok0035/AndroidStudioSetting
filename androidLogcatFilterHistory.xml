@@ -6,15 +6,20 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine allReview" />
+    <option name="mostRecentlyUsed" value="package:mine tag:PurchaseInfoActivity " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PurchaseInfoActivity " />
+        <option value="package:mine " />
+        <option value="package:mine getPhoto" />
+        <option value="package:mine tag:ReviewListViewModel getPhotoList" />
+        <option value="package:mine tag:ReviewListViewModel copyMy" />
+        <option value="package:mine tag:ReviewListViewModel copyMyList" />
+        <option value="package:mine tag:ReviewListViewModel" />
         <option value="package:mine allReview" />
         <option value="package:mine review copy" />
-        <option value="package:mine " />
         <option value="package:mine tag:ReviewListViewModel$getReviewList " />
         <option value="package:mine" />
-        <option value="package:mine tag:ReviewListViewModel" />
         <option value="package:mine tag:ReviewListViewModel " />
         <option value="package:mine access" />
         <option value="package:mine level:DEBUG" />
@@ -24,11 +29,6 @@
         <option value="package:mine level:DEBUG tag:PurchaseInfoActivity" />
         <option value="package:mine level:DEBUG tag:ViewRootImpl@6e15b23[PurchaseInfoActivity] tag:PopShopAdapter" />
         <option value="package:mine level:DEBUG tag:ViewRootImpl@6e15b23[PurchaseInfoActivity] " />
-        <option value="package:mine level:DEBUG " />
-        <option value="package:mine tag:SpotDetailActivity tag:SpotDetailViewModel level:DEBUG " />
-        <option value="package:mine tag:SpotDetailActivity tag:SpotDetailViewModel" />
-        <option value="package:mine request" />
-        <option value="package:mine reques" />
       </list>
     </option>
   </component>
