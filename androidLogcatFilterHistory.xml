@@ -6,9 +6,11 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine allReview" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine allReview" />
+        <option value="package:mine review copy" />
         <option value="package:mine " />
         <option value="package:mine tag:ReviewListViewModel$getReviewList " />
         <option value="package:mine" />
@@ -27,8 +29,6 @@
         <option value="package:mine tag:SpotDetailActivity tag:SpotDetailViewModel" />
         <option value="package:mine request" />
         <option value="package:mine reques" />
-        <option value="package:mine tag:SpotDetailViewModel$requestReview " />
-        <option value="package:mine review" />
       </list>
     </option>
   </component>
