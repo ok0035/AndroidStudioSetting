@@ -6,9 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine section" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine section" />
         <option value="package:mine " />
         <option value="package:mine token -" />
         <option value="package:mine" />
@@ -28,7 +29,6 @@
         <option value="package:mine level:DEBUG tag:PurchaseInfoActivity tag:PurchaseInfoViewModel tag:PopShopAdapter tag:PopShopFragment " />
         <option value="package:mine level:DEBUG tag:PurchaseInfoActivity tag:PurchaseInfoViewModel" />
         <option value="package:mine level:DEBUG tag:PurchaseInfoActivity" />
-        <option value="package:mine level:DEBUG tag:ViewRootImpl@6e15b23[PurchaseInfoActivity] tag:PopShopAdapter" />
       </list>
     </option>
   </component>
