@@ -6,9 +6,12 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine  섹션" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine tag:SpotListItemDataRepositoryImpl " />
+        <option value="package:mine  " />
         <option value="package:mine  섹션" />
         <option value="package:mine  jongro" />
         <option value="package:mine  Section" />
@@ -17,7 +20,6 @@
         <option value="package:mine tag:DateMapRepositoryImpl" />
         <option value="package:mine DateMapRepositoryImpl" />
         <option value="package:mine section" />
-        <option value="package:mine " />
         <option value="package:mine token -" />
         <option value="package:mine" />
         <option value="package:mine tag:PurchaseInfoActivity " />
@@ -27,8 +29,6 @@
         <option value="package:mine tag:ReviewListViewModel copyMyList" />
         <option value="package:mine tag:ReviewListViewModel" />
         <option value="package:mine allReview" />
-        <option value="package:mine review copy" />
-        <option value="package:mine tag:ReviewListViewModel$getReviewList " />
       </list>
     </option>
   </component>
