@@ -10,6 +10,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine getB" />
         <option value="package:mine tag:SpotListItemDataRepositoryImpl " />
         <option value="package:mine  " />
         <option value="package:mine  섹션" />
@@ -28,7 +29,6 @@
         <option value="package:mine tag:ReviewListViewModel copyMy" />
         <option value="package:mine tag:ReviewListViewModel copyMyList" />
         <option value="package:mine tag:ReviewListViewModel" />
-        <option value="package:mine allReview" />
       </list>
     </option>
   </component>
