@@ -6,11 +6,12 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine tag:PurchaseInfoActivity " />
-        <option value="package:mine " />
         <option value="package:mine getPhoto" />
         <option value="package:mine tag:ReviewListViewModel getPhotoList" />
         <option value="package:mine tag:ReviewListViewModel copyMy" />
