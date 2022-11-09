@@ -6,10 +6,12 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine  getSpot" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine level:debug " />
+        <option value="package:mine level:ERROR " />
         <option value="package:mine  getSpot" />
         <option value="package:mine getB" />
         <option value="package:mine tag:SpotListItemDataRepositoryImpl " />
@@ -27,8 +29,6 @@
         <option value="package:mine tag:PurchaseInfoActivity " />
         <option value="package:mine getPhoto" />
         <option value="package:mine tag:ReviewListViewModel getPhotoList" />
-        <option value="package:mine tag:ReviewListViewModel copyMy" />
-        <option value="package:mine tag:ReviewListViewModel copyMyList" />
       </list>
     </option>
   </component>
