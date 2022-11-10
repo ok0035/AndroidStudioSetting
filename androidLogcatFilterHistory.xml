@@ -6,12 +6,12 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine reques" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine reques" />
         <option value="package:mine request" />
-        <option value="package:mine " />
         <option value="package:mine tag:SpotDetailViewModel$requestReview " />
         <option value="package:mine review" />
         <option value="package:mine requestAll" />
