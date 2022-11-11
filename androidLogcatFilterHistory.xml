@@ -10,25 +10,25 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="package:mine level:error " />
-        <option value="package:mine level:debug " />
-        <option value="package:mine level:ERROR " />
-        <option value="package:mine  getSpot" />
-        <option value="package:mine getB" />
-        <option value="package:mine tag:SpotListItemDataRepositoryImpl " />
-        <option value="package:mine  " />
-        <option value="package:mine  섹션" />
-        <option value="package:mine  jongro" />
-        <option value="package:mine  Section" />
-        <option value="package:mine  tag:DateMapViewModel section" />
-        <option value="package:mine tag:DateMapRepositoryImpl tag:DateMapViewModel" />
-        <option value="package:mine tag:DateMapRepositoryImpl" />
-        <option value="package:mine DateMapRepositoryImpl" />
-        <option value="package:mine section" />
-        <option value="package:mine token -" />
+        <option value="package:mine reques" />
+        <option value="package:mine request" />
+        <option value="package:mine tag:SpotDetailViewModel$requestReview " />
+        <option value="package:mine review" />
+        <option value="package:mine requestAll" />
+        <option value="package:mine tag:SpotDetailActivity " />
+        <option value="package:mine tag:SpotDetailActivity" />
         <option value="package:mine" />
-        <option value="package:mine tag:PurchaseInfoActivity " />
-        <option value="package:mine getPhoto" />
+        <option value="package:mine datastore" />
+        <option value="package:mine LoginViewModel's" />
+        <option value="package:mine read base" />
+        <option value="package:mine tag:MainActivity is" />
+        <option value="package:mine migration" />
+        <option value="package:mine tag:MainActivity " />
+        <option value="package:mine Error" />
+        <option value="package:mine Error r" />
+        <option value="package:mine tag:MainActivity tag:SplashActivity" />
+        <option value="package:mine tag:MainActivity tag:SplashActivity$onCreate " />
+        <option value=" tag:MainHomeFragment" />
       </list>
     </option>
   </component>
