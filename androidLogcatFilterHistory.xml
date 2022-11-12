@@ -6,9 +6,11 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine level:ERROR " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:ERROR " />
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine reques" />
         <option value="package:mine request" />
@@ -17,7 +19,6 @@
         <option value="package:mine requestAll" />
         <option value="package:mine tag:SpotDetailActivity " />
         <option value="package:mine tag:SpotDetailActivity" />
-        <option value="package:mine" />
         <option value="package:mine datastore" />
         <option value="package:mine LoginViewModel's" />
         <option value="package:mine read base" />
@@ -28,7 +29,6 @@
         <option value="package:mine Error r" />
         <option value="package:mine tag:MainActivity tag:SplashActivity" />
         <option value="package:mine tag:MainActivity tag:SplashActivity$onCreate " />
-        <option value=" tag:MainHomeFragment" />
       </list>
     </option>
   </component>
