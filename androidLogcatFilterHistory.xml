@@ -2,13 +2,17 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine tag:PopassFragment tag:PopassModule  tag:PopassViewModel tag:PopassUsecase tag:PopassApi tag:PopassRepository tag:PopassIntroAdapter tag:PopassListAdapter " />
         <option value="package:mine tag:MainActivity tag:MainHomeFragment level:DEBUG " />
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:PopassFragment tag:PopassModule  tag:PopassViewModel tag:PopassUsecase tag:PopassApi tag:PopassRepository tag:PopassIntroAdapter" />
+    <option name="mostRecentlyUsed" value="blur" />
     <option name="nonFavorites">
       <list>
+        <option value="blur" />
+        <option value="package:mine tag:PopassFragment tag:PopassModule  tag:PopassViewModel tag:PopassUsecase tag:PopassApi tag:PopassRepository tag:PopassIntroAdapter tag:PopassListAdapter" />
+        <option value="package:mine tag:PopassFragment tag:PopassModule  tag:PopassViewModel tag:PopassUsecase tag:PopassApi tag:PopassRepository tag:PopassIntroAdapter tag:PopassListAdapter$ListHolder " />
         <option value="package:mine tag:PopassFragment tag:PopassModule  tag:PopassViewModel tag:PopassUsecase tag:PopassApi tag:PopassRepository tag:PopassIntroAdapter" />
         <option value="package:mine tag:PopassFragment tag:PopassModule  tag:PopassViewModel tag:PopassUsecase tag:PopassApi tag:PopassRepository" />
         <option value="package:mine tag:PopassFragment tag:PopassModule  tag:PopassViewModel tag:PopassUsecase" />
@@ -26,9 +30,6 @@
         <option value="package:mine tag:SpotDetailActivity" />
         <option value="package:mine datastore" />
         <option value="package:mine LoginViewModel's" />
-        <option value="package:mine read base" />
-        <option value="package:mine tag:MainActivity is" />
-        <option value="package:mine migration" />
       </list>
     </option>
   </component>
