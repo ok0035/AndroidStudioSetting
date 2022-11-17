@@ -7,9 +7,9 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:ERROR " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine level:ERROR " />
         <option value="blur" />
         <option value="package:mine tag:PopassFragment tag:PopassModule  tag:PopassViewModel tag:PopassUsecase tag:PopassApi tag:PopassRepository tag:PopassIntroAdapter tag:PopassListAdapter" />
@@ -17,7 +17,6 @@
         <option value="package:mine tag:PopassFragment tag:PopassModule  tag:PopassViewModel tag:PopassUsecase tag:PopassApi tag:PopassRepository tag:PopassIntroAdapter" />
         <option value="package:mine tag:PopassFragment tag:PopassModule  tag:PopassViewModel tag:PopassUsecase tag:PopassApi tag:PopassRepository" />
         <option value="package:mine tag:PopassFragment tag:PopassModule  tag:PopassViewModel tag:PopassUsecase" />
-        <option value="package:mine" />
         <option value="package:mine main re" />
         <option value="package:mine " />
         <option value="package:mine  " />
