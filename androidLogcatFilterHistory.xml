@@ -6,11 +6,14 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine tag:ApisInterceptor tag:PopassFragment tag:PopassViewModel" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
+        <option value="package:mine tag:ApisInterceptor tag:PopassFragment tag:PopassViewModel" />
         <option value="package:mine show" />
+        <option value="package:mine request" />
+        <option value="package:mine tag:PopassFragment$onCreateView " />
+        <option value="package:mine " />
         <option value="package:mine request hea" />
         <option value="package:mine check show" />
         <option value="package:mine subscribe" />
@@ -19,7 +22,6 @@
         <option value="package:mine  " />
         <option value="package:mine" />
         <option value="package:mine reques" />
-        <option value="package:mine request" />
         <option value="package:mine tag:SpotDetailViewModel$requestReview " />
         <option value="package:mine review" />
         <option value="package:mine requestAll" />
@@ -27,8 +29,6 @@
         <option value="package:mine tag:SpotDetailActivity" />
         <option value="package:mine datastore" />
         <option value="package:mine LoginViewModel's" />
-        <option value="package:mine read base" />
-        <option value="package:mine tag:MainActivity is" />
       </list>
     </option>
   </component>
