@@ -10,6 +10,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine popass" />
         <option value="package:mine level:ERROR " />
         <option value="package:mine subscribe" />
         <option value="package:mine  " />
@@ -28,7 +29,6 @@
         <option value="package:mine migration" />
         <option value="package:mine tag:MainActivity " />
         <option value="package:mine Error" />
-        <option value="package:mine Error r" />
       </list>
     </option>
   </component>
