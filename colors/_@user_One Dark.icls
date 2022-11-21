@@ -3,7 +3,7 @@
     <property name="created">2022-11-18T14:33:01</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.3.1.16</property>
-    <property name="modified">2022-11-18T18:19:28</property>
+    <property name="modified">2022-11-21T16:50:12</property>
     <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
@@ -1251,6 +1251,11 @@
     <option name="KOTLIN_LABEL">
       <value>
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="c1c1c1" />
       </value>
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
