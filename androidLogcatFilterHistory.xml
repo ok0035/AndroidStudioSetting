@@ -10,6 +10,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine tag:PopassFragment tag:PopassViewModel" />
         <option value="package:mine  tag:PopassSubscribeAdapter tag:PopassTicketListAdapter" />
         <option value="package:mine  tag:PopassFragment" />
         <option value="package:mine  level:ERROR " />
@@ -28,7 +29,6 @@
         <option value="package:mine requestAll" />
         <option value="package:mine tag:SpotDetailActivity " />
         <option value="package:mine tag:SpotDetailActivity" />
-        <option value="package:mine datastore" />
       </list>
     </option>
   </component>
