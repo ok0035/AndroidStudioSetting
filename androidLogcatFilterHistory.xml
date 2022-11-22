@@ -6,9 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine  level:ERROR " />
+    <option name="mostRecentlyUsed" value="package:mine  tag:PopassFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  tag:PopassFragment" />
         <option value="package:mine  level:ERROR " />
         <option value="package:mine tag:PopassList level:ERROR " />
         <option value="package:mine tag:PopassList" />
@@ -28,7 +29,6 @@
         <option value="package:mine tag:SpotDetailActivity" />
         <option value="package:mine datastore" />
         <option value="package:mine LoginViewModel's" />
-        <option value="package:mine read base" />
       </list>
     </option>
   </component>
