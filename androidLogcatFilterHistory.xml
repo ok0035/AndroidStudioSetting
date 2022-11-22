@@ -6,9 +6,11 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:PopassList" />
+    <option name="mostRecentlyUsed" value="package:mine  level:ERROR " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  level:ERROR " />
+        <option value="package:mine tag:PopassList level:ERROR " />
         <option value="package:mine tag:PopassList" />
         <option value="package:mine 구독" />
         <option value="package:mine " />
@@ -27,8 +29,6 @@
         <option value="package:mine datastore" />
         <option value="package:mine LoginViewModel's" />
         <option value="package:mine read base" />
-        <option value="package:mine tag:MainActivity is" />
-        <option value="package:mine migration" />
       </list>
     </option>
   </component>
