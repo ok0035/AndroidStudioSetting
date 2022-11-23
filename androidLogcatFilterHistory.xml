@@ -6,9 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:PopassListAdapter " />
+    <option name="mostRecentlyUsed" value="package:mine tag:PopassListAdapter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PopassListAdapter" />
         <option value="package:mine tag:PopassListAdapter " />
         <option value="package:mine ticketBind" />
         <option value="package:mine " />
@@ -28,7 +29,6 @@
         <option value="package:mine request" />
         <option value="package:mine tag:SpotDetailViewModel$requestReview " />
         <option value="package:mine review" />
-        <option value="package:mine requestAll" />
       </list>
     </option>
   </component>
