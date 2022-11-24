@@ -6,13 +6,13 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:PopassSubscribeAdapter " />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:PopassSubscribeAdapter " />
         <option value="package:mine tag:PopassSubscribeAdapter tag:PopassFragment " />
         <option value="package:mine tag:PopassSubscribeAdapter" />
-        <option value="package:mine " />
         <option value="package:mine tag:PopassListAdapter" />
         <option value="package:mine tag:PopassListAdapter " />
         <option value="package:mine ticketBind" />
