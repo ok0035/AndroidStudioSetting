@@ -6,9 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine tag:PopassFragment " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PopassFragment " />
         <option value="package:mine " />
         <option value="package:mine 내" />
         <option value="package:mine 내주" />
@@ -28,7 +29,6 @@
         <option value="package:mine popass" />
         <option value="package:mine level:ERROR " />
         <option value="package:mine subscribe" />
-        <option value="package:mine  " />
       </list>
     </option>
   </component>
