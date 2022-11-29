@@ -6,12 +6,12 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:PurchaseInfoActivity  tag:PurchaseInfoViewModel  " />
+    <option name="mostRecentlyUsed" value="package:mine tag:PurchaseInfoActivity  tag:PurchaseInfoViewModel " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PurchaseInfoActivity  tag:PurchaseInfoViewModel " />
         <option value="package:mine tag:PurchaseInfoActivity  tag:PurchaseInfoViewModel  " />
         <option value="package:mine tag:PurchaseInfoActivity  tag:PurchaseInfoViewModel  getPurchaseInformation success" />
-        <option value="package:mine tag:PurchaseInfoActivity  tag:PurchaseInfoViewModel " />
         <option value="package:mine tag:PurchaseInfoActivity " />
         <option value="package:mine " />
         <option value="package:mine tag:PopassFragment " />
