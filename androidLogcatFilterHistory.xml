@@ -6,9 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:PurchaseInfoActivity  tag:PurchaseInfoViewModel " />
+    <option name="mostRecentlyUsed" value="package:mine token" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine token" />
         <option value="package:mine tag:PurchaseInfoActivity  tag:PurchaseInfoViewModel " />
         <option value="package:mine tag:PurchaseInfoActivity  tag:PurchaseInfoViewModel  " />
         <option value="package:mine tag:PurchaseInfoActivity  tag:PurchaseInfoViewModel  getPurchaseInformation success" />
@@ -28,7 +29,6 @@
         <option value="package:mine  tag:PopassFragment" />
         <option value="package:mine  level:ERROR " />
         <option value="package:mine tag:PopassList level:ERROR " />
-        <option value="package:mine tag:PopassList" />
       </list>
     </option>
   </component>
