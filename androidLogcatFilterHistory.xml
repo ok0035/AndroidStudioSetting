@@ -6,9 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine launcher" />
+    <option name="mostRecentlyUsed" value="package:mine tag:PopassFragment " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PopassFragment " />
         <option value="package:mine launcher" />
         <option value="package:mine " />
         <option value="package:mine 발권" />
@@ -18,7 +19,6 @@
         <option value="package:mine tag:PurchaseInfoActivity  tag:PurchaseInfoViewModel  " />
         <option value="package:mine tag:PurchaseInfoActivity  tag:PurchaseInfoViewModel  getPurchaseInformation success" />
         <option value="package:mine tag:PurchaseInfoActivity " />
-        <option value="package:mine tag:PopassFragment " />
         <option value="package:mine 내" />
         <option value="package:mine 내주" />
         <option value="package:mine tag:PopassSubscribeAdapter " />
