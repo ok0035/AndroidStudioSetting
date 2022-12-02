@@ -10,6 +10,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine 티켓 정" />
+        <option value="package:mine tag:PopassIssueTicketDetailFragment" />
         <option value="package:mine tag:ApisInterceptor tag:PopassFragment tag:PopassViewModel" />
         <option value="package:mine show" />
         <option value="package:mine request" />
@@ -27,8 +29,6 @@
         <option value="package:mine requestAll" />
         <option value="package:mine tag:SpotDetailActivity " />
         <option value="package:mine tag:SpotDetailActivity" />
-        <option value="package:mine datastore" />
-        <option value="package:mine LoginViewModel's" />
       </list>
     </option>
   </component>
