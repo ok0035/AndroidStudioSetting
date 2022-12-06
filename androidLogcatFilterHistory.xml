@@ -6,9 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine token" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine token" />
         <option value="package:mine " />
         <option value="package:mine tag:PopassIssueTicketDetailFragment " />
         <option value="package:mine level:ERROR " />
@@ -22,7 +23,6 @@
         <option value="package:mine launcher" />
         <option value="package:mine 발권" />
         <option value="package:mine 발권 확인" />
-        <option value="package:mine token" />
         <option value="package:mine tag:PurchaseInfoActivity  tag:PurchaseInfoViewModel " />
         <option value="package:mine tag:PurchaseInfoActivity  tag:PurchaseInfoViewModel  " />
         <option value="package:mine tag:PurchaseInfoActivity  tag:PurchaseInfoViewModel  getPurchaseInformation success" />
