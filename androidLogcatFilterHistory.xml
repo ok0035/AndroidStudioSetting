@@ -6,12 +6,12 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:ReviewCreateActivity tag:ReviewCreateViewModel " />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:ReviewCreateActivity tag:ReviewCreateViewModel " />
         <option value="package:mine tag:PopassTicketListAdapter$TicketHolder " />
-        <option value="package:mine " />
         <option value="package:mine token" />
         <option value="package:mine tag:PopassIssueTicketDetailFragment " />
         <option value="package:mine level:ERROR " />
