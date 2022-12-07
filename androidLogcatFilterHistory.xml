@@ -6,9 +6,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine tag:PopassTicketListAdapter$TicketHolder " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PopassTicketListAdapter$TicketHolder " />
         <option value="package:mine " />
         <option value="package:mine token" />
         <option value="package:mine tag:PopassIssueTicketDetailFragment " />
@@ -28,7 +29,6 @@
         <option value="package:mine tag:PurchaseInfoActivity  tag:PurchaseInfoViewModel  getPurchaseInformation success" />
         <option value="package:mine tag:PurchaseInfoActivity " />
         <option value="package:mine 내" />
-        <option value="package:mine 내주" />
       </list>
     </option>
   </component>
