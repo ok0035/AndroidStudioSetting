@@ -7,9 +7,11 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:MyReviewListActivity$observe tag:ReviewCreateViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine sp" />
+        <option value="package:mine spot" />
         <option value="package:mine tag:MyReviewListActivity$observe tag:ReviewCreateViewModel" />
         <option value="package:mine tag:MyReviewListActivity$observe " />
         <option value="package:mine " />
@@ -19,7 +21,6 @@
         <option value="package:mine review id -&gt;" />
         <option value="package:mine tag:MyReviewListActivity tag:MyReviewListAdapter" />
         <option value="package:mine tag:MyReviewListActivity" />
-        <option value="package:mine" />
         <option value="package:mine tag:MyReviewListAdapter tag:MyReviewListActivity" />
         <option value="package:mine tag:MyReviewListAdapter" />
         <option value="package:mine tag:ReviewCreateActivity tag:ReviewCreateViewModel " />
@@ -28,8 +29,6 @@
         <option value="package:mine tag:PopassIssueTicketDetailFragment " />
         <option value="package:mine level:ERROR " />
         <option value="package:mine TEST res" />
-        <option value="package:mine tag:PopassErrorMapper" />
-        <option value="package:mine popass" />
       </list>
     </option>
   </component>
