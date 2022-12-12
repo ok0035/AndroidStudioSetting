@@ -7,14 +7,14 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine updateMy" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine updateMy" />
         <option value="package:mine MyReview" />
         <option value="package:mine MyReviewListActivity" />
         <option value="package:mine review id -&gt;" />
-        <option value="package:mine " />
         <option value="package:mine tag:MyReviewListActivity tag:MyReviewListAdapter" />
         <option value="package:mine tag:MyReviewListActivity" />
         <option value="package:mine" />
