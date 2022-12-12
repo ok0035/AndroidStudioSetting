@@ -7,9 +7,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine tag:MyReviewListActivity$observe " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:MyReviewListActivity$observe " />
         <option value="package:mine " />
         <option value="package:mine updateMy" />
         <option value="package:mine MyReview" />
@@ -29,7 +30,6 @@
         <option value="package:mine tag:PopassErrorMapper" />
         <option value="package:mine popass" />
         <option value="package:mine tag:PopassTicketListAdapter" />
-        <option value="package:mine tag:PopassFragment tag:PopassViewModel" />
       </list>
     </option>
   </component>
