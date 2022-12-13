@@ -3,7 +3,7 @@
     <property name="created">2022-12-05T12:47:28</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.3.1.16</property>
-    <property name="modified">2022-12-12T09:53:54</property>
+    <property name="modified">2022-12-13T09:03:20</property>
     <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
@@ -464,7 +464,6 @@
       <value>
         <option name="FOREGROUND" value="61afef" />
         <option name="EFFECT_COLOR" value="61afef" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -1223,9 +1222,19 @@
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
+    <option name="KOTLIN_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="c1c1c1" />
+      </value>
+    </option>
     <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="d19a66" />
+      </value>
+    </option>
+    <option name="KOTLIN_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="c1c1c1" />
       </value>
     </option>
     <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
@@ -1251,6 +1260,11 @@
     <option name="KOTLIN_LABEL">
       <value>
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="c1c1c1" />
       </value>
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
