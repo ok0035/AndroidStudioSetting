@@ -7,12 +7,13 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine 리뷰쓰러" />
+    <option name="mostRecentlyUsed" value="package:mine spot info" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine spot info" />
+        <option value="package:mine " />
         <option value="package:mine 리뷰쓰러" />
         <option value="package:mine Popass" />
-        <option value="package:mine " />
         <option value="package:mine tag:PurchaseInfoFragment" />
         <option value="package:mine tag:PopassSubscribeAdapter" />
         <option value="package:mine tag:PopassSu" />
@@ -29,7 +30,6 @@
         <option value="package:mine tag:MyReviewListActivity" />
         <option value="package:mine tag:MyReviewListAdapter tag:MyReviewListActivity" />
         <option value="package:mine tag:MyReviewListAdapter" />
-        <option value="package:mine tag:ReviewCreateActivity tag:ReviewCreateViewModel " />
       </list>
     </option>
   </component>
