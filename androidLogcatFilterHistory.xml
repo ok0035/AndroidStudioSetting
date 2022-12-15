@@ -11,6 +11,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine token" />
+        <option value="package:mine 블로그" />
         <option value="package:mine spot info" />
         <option value="package:mine 리뷰쓰러" />
         <option value="package:mine Popass" />
@@ -28,8 +30,6 @@
         <option value="package:mine review id -&gt;" />
         <option value="package:mine tag:MyReviewListActivity tag:MyReviewListAdapter" />
         <option value="package:mine tag:MyReviewListActivity" />
-        <option value="package:mine tag:MyReviewListAdapter tag:MyReviewListActivity" />
-        <option value="package:mine tag:MyReviewListAdapter" />
       </list>
     </option>
   </component>
