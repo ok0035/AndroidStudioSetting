@@ -7,11 +7,12 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:MainHomeFragment " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:MainHomeFragment " />
+        <option value="package:mine" />
+        <option value="package:mine near" />
         <option value="package:mine " />
+        <option value="package:mine tag:MainHomeFragment " />
         <option value="package:mine tag:MainHomeFragment tag:MainViewModel$updateNearSpotList tag:ContextExKt " />
         <option value="package:mine tag:MainHomeFragment tag:MainViewModel$updateNearSpotList " />
         <option value="package:mine 내 위치 권" />
@@ -25,11 +26,9 @@
         <option value="package:mine tag:PurchaseInfoFragment" />
         <option value="package:mine tag:PopassSubscribeAdapter" />
         <option value="package:mine tag:PopassSu" />
-        <option value="package:mine" />
         <option value="package:mine sp" />
         <option value="package:mine spot" />
         <option value="package:mine tag:MyReviewListActivity$observe tag:ReviewCreateViewModel" />
-        <option value="package:mine tag:MyReviewListActivity$observe " />
       </list>
     </option>
   </component>
