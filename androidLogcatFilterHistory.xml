@@ -11,9 +11,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:MainViewModel$updateNearSpotList " />
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine near" />
-        <option value="package:mine " />
         <option value="package:mine tag:MainHomeFragment " />
         <option value="package:mine tag:MainHomeFragment tag:MainViewModel$updateNearSpotList tag:ContextExKt " />
         <option value="package:mine tag:MainHomeFragment tag:MainViewModel$updateNearSpotList " />
