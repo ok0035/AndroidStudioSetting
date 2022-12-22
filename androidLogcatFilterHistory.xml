@@ -7,15 +7,15 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine tag:MainHomeFragment " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:MainHomeFragment " />
         <option value="package:mine " />
         <option value="package:mine tag:MainHomeFragment tag:MainViewModel$updateNearSpotList tag:ContextExKt " />
         <option value="package:mine tag:MainHomeFragment tag:MainViewModel$updateNearSpotList " />
         <option value="package:mine 내 위치 권" />
         <option value="package:mine tag:MainHomeFragment tag:MainViewModel" />
-        <option value="package:mine tag:MainHomeFragment " />
         <option value="package:mine tag:MainFragment " />
         <option value="package:mine token" />
         <option value="package:mine 블로그" />
