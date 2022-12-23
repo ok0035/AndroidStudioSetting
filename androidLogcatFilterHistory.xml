@@ -7,8 +7,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine tag:MainHomeFragment tag:HomeFeedMapHolder tag:MainViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:MainHomeFragment tag:HomeFeedMapHolder tag:MainViewModel" />
         <option value="package:mine" />
         <option value="package:mine\" />
         <option value="package:mine tag:MainViewModel$updateNearSpotList tag:MainHomeFragment " />
@@ -28,7 +30,6 @@
         <option value="package:mine Popass" />
         <option value="package:mine tag:PurchaseInfoFragment" />
         <option value="package:mine tag:PopassSubscribeAdapter" />
-        <option value="package:mine tag:PopassSu" />
       </list>
     </option>
   </component>
