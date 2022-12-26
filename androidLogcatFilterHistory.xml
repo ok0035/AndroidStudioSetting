@@ -7,9 +7,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine tag:ScrollableMapView" />
         <option value="package:mine tag:MainHomeFragment tag:HomeFeedMapHolder tag:MainViewModel" />
@@ -29,7 +30,6 @@
         <option value="package:mine spot info" />
         <option value="package:mine 리뷰쓰러" />
         <option value="package:mine Popass" />
-        <option value="package:mine tag:PurchaseInfoFragment" />
       </list>
     </option>
   </component>
