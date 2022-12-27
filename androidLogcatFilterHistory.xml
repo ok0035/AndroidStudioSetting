@@ -7,15 +7,17 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine tag:PurchaseInfoFragment tag:PurchaseInfoViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PurchaseInfoFragment tag:PurchaseInfoViewModel" />
+        <option value="package:mine" />
         <option value="package:mine " />
+        <option value="package:mine tag:PurchaseInfoFragment$configViews tag:PurchaseInfoViewModel" />
         <option value="package:mine TEST" />
         <option value="package:mine level:error " />
         <option value="package:mine tag:ScrollableMapView" />
         <option value="package:mine tag:MainHomeFragment tag:HomeFeedMapHolder tag:MainViewModel" />
-        <option value="package:mine" />
         <option value="package:mine\" />
         <option value="package:mine tag:MainViewModel$updateNearSpotList tag:MainHomeFragment " />
         <option value="package:mine tag:MainViewModel$updateNearSpotList " />
@@ -28,8 +30,6 @@
         <option value="package:mine tag:MainFragment " />
         <option value="package:mine token" />
         <option value="package:mine 블로그" />
-        <option value="package:mine spot info" />
-        <option value="package:mine 리뷰쓰러" />
       </list>
     </option>
   </component>
