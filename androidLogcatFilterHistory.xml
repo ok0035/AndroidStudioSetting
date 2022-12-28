@@ -7,11 +7,12 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:PurchaseInfoViewModel" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:PurchaseInfoViewModel" />
         <option value="package:mine " />
+        <option value="package:mine level:error " />
+        <option value="package:mine tag:PurchaseInfoViewModel" />
         <option value="package:mine PurchaseInfoFragment -&gt;" />
         <option value="package:mine tag: PurchaseInfoFragment " />
         <option value="package:mine getPurchase" />
@@ -19,7 +20,6 @@
         <option value="package:mine" />
         <option value="package:mine tag:PurchaseInfoFragment$configViews tag:PurchaseInfoViewModel" />
         <option value="package:mine TEST" />
-        <option value="package:mine level:error " />
         <option value="package:mine tag:ScrollableMapView" />
         <option value="package:mine tag:MainHomeFragment tag:HomeFeedMapHolder tag:MainViewModel" />
         <option value="package:mine\" />
