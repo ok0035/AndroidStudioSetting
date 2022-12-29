@@ -7,9 +7,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine tag:SpotPhotoReviewItem" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:SpotPhotoReviewItem" />
         <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine tag:PurchaseInfoViewModel" />
@@ -29,7 +30,6 @@
         <option value="package:mine tag:MainHomeFragment " />
         <option value="package:mine tag:MainHomeFragment tag:MainViewModel$updateNearSpotList tag:ContextExKt " />
         <option value="package:mine tag:MainHomeFragment tag:MainViewModel$updateNearSpotList " />
-        <option value="package:mine 내 위치 권" />
       </list>
     </option>
   </component>
