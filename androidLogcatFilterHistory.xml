@@ -7,9 +7,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:ReviewCreateActivity " />
+    <option name="mostRecentlyUsed" value="package:mine tag:ReviewCreateActivity tag:ReviewItem" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:ReviewCreateActivity tag:ReviewItem" />
         <option value="package:mine tag:ReviewCreateActivity " />
         <option value="package:mine level:debug " />
         <option value="package:mine " />
@@ -29,7 +30,6 @@
         <option value="package:mine tag:PurchaseInfoFragment tag:PurchaseInfoViewModel" />
         <option value="package:mine" />
         <option value="package:mine tag:PurchaseInfoFragment$configViews tag:PurchaseInfoViewModel" />
-        <option value="package:mine TEST" />
       </list>
     </option>
   </component>
