@@ -11,6 +11,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine tag:SnsReviewListAdapter$onBindViewHolder " />
+        <option value="package:mine tag:SnsReviewListAdapter" />
         <option value="package:mine Intro Holder binding -&gt;" />
         <option value="package:mine level:error " />
         <option value="package:mine tag:ReviewListViewModel " />
@@ -28,8 +30,6 @@
         <option value="package:mine TEST" />
         <option value="package:mine tag:ScrollableMapView" />
         <option value="package:mine tag:MainHomeFragment tag:HomeFeedMapHolder tag:MainViewModel" />
-        <option value="package:mine\" />
-        <option value="package:mine tag:MainViewModel$updateNearSpotList tag:MainHomeFragment " />
       </list>
     </option>
   </component>
