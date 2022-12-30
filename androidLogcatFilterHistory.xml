@@ -7,9 +7,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:debug " />
+    <option name="mostRecentlyUsed" value="package:mine tag:ReviewCreateActivity " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:ReviewCreateActivity " />
         <option value="package:mine level:debug " />
         <option value="package:mine " />
         <option value="package:mine tag:SnsReviewListAdapter$onBindViewHolder " />
@@ -29,7 +30,6 @@
         <option value="package:mine" />
         <option value="package:mine tag:PurchaseInfoFragment$configViews tag:PurchaseInfoViewModel" />
         <option value="package:mine TEST" />
-        <option value="package:mine tag:ScrollableMapView" />
       </list>
     </option>
   </component>
