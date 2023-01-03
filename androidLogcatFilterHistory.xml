@@ -7,12 +7,13 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine resume refresh" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
+        <option value="package:mine " />
         <option value="package:mine resume refresh" />
         <option value="package:mine tag:PurchaseContentListAdapter" />
-        <option value="package:mine " />
         <option value="package:mine allReview" />
         <option value="package:mine tag:ReviewCreateActivity tag:ReviewItem" />
         <option value="package:mine tag:ReviewCreateActivity " />
@@ -20,7 +21,6 @@
         <option value="package:mine tag:SnsReviewListAdapter$onBindViewHolder " />
         <option value="package:mine tag:SnsReviewListAdapter" />
         <option value="package:mine Intro Holder binding -&gt;" />
-        <option value="package:mine level:error " />
         <option value="package:mine tag:ReviewListViewModel " />
         <option value="package:mine tag:SpotPhotoReviewItem tag:ReviewListViewModel getReviewList FAILE" />
         <option value="package:mine tag:SpotPhotoReviewItem tag:ReviewListViewModel count" />
