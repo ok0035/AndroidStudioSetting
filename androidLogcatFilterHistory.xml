@@ -7,16 +7,16 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:PurchaseContentListAdapter " />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:PurchaseContentListAdapter " />
         <option value="package:mine" />
         <option value="package:mine level:debug tag:PurchaseContentListAdapter" />
         <option value="package:mine level:debug tag:PurchaseContentListAdapter " />
         <option value="package:mine level:debug " />
         <option value="package:mine level:error " />
-        <option value="package:mine " />
         <option value="package:mine resume refresh" />
         <option value="package:mine tag:PurchaseContentListAdapter" />
         <option value="package:mine allReview" />
