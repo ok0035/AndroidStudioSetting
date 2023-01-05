@@ -7,9 +7,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:PurchaseInfoFragment " />
+    <option name="mostRecentlyUsed" value="package:mine tag:PurchaseInfoFragment tag:PurchaseTopPagerAdapter " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PurchaseInfoFragment tag:PurchaseTopPagerAdapter " />
         <option value="package:mine tag:PurchaseInfoFragment " />
         <option value="package:mine " />
         <option value="package:mine tag:PurchaseContentListAdapter " />
@@ -29,7 +30,6 @@
         <option value="package:mine tag:ReviewListViewModel " />
         <option value="package:mine tag:SpotPhotoReviewItem tag:ReviewListViewModel getReviewList FAILE" />
         <option value="package:mine tag:SpotPhotoReviewItem tag:ReviewListViewModel count" />
-        <option value="package:mine tag:SpotPhotoReviewItem tag:ReviewListViewModel" />
       </list>
     </option>
   </component>
