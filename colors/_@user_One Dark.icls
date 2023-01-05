@@ -3,7 +3,7 @@
     <property name="created">2022-12-05T12:47:28</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.3.1.16</property>
-    <property name="modified">2023-01-04T10:09:00</property>
+    <property name="modified">2023-01-05T11:26:07</property>
     <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
@@ -464,6 +464,7 @@
       <value>
         <option name="FOREGROUND" value="61afef" />
         <option name="EFFECT_COLOR" value="61afef" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
