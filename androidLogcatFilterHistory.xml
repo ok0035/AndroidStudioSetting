@@ -7,15 +7,15 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine tag:PopassMAinFragment" />
         <option value="package:mine" />
         <option value="package:mine tag:PopassMainFragment " />
         <option value="package:mine state" />
-        <option value="package:mine " />
         <option value="package:mine tag:MainViewModel tag:PopassMainFragment " />
         <option value="package:mine tag:MainViewModel" />
         <option value="package:mine tag:CourseItemViewModel" />
