@@ -7,9 +7,11 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine buffer..." />
+    <option name="mostRecentlyUsed" value="package:mine bufferd" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine bufferd" />
+        <option value="package:mine " />
         <option value="package:mine buffer..." />
         <option value="package:mine" />
         <option value="package:mine PopassIntroAdapter -&gt; " />
@@ -18,7 +20,6 @@
         <option value="package:mine release" />
         <option value="package:mine tag:PurchaseInfoFragment tag:ReviewCreateActivity tag:ReviewListActivity result code" />
         <option value="package:mine tag:PurchaseInfoFragment tag:ReviewCreateActivity tag:ReviewListActivity ReviewListActivity " />
-        <option value="package:mine " />
         <option value="package:mine tag:PurchaseInfoViewModel" />
         <option value="package:mine 캐시" />
         <option value="package:mine tag:PopassMainFragment" />
@@ -29,7 +30,6 @@
         <option value="package:mine state" />
         <option value="package:mine tag:MainViewModel tag:PopassMainFragment " />
         <option value="package:mine tag:MainViewModel" />
-        <option value="package:mine tag:CourseItemViewModel" />
       </list>
     </option>
   </component>
