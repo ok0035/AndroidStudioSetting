@@ -7,9 +7,11 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:SectionSpotFragment tag:SpotDetailFragment" />
+    <option name="mostRecentlyUsed" value="package:mine tag:PurchaseContentListAdapter " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PurchaseContentListAdapter " />
+        <option value="package:mine tag:Purchase" />
         <option value="package:mine tag:SectionSpotFragment tag:SpotDetailFragment" />
         <option value="package:mine tag:SectionSpotFragment" />
         <option value="package:mine tag:SectionSpot" />
@@ -28,8 +30,6 @@
         <option value="package:mine tag:PopassMainFragment" />
         <option value="package:mine load more review" />
         <option value="package:mine level:error " />
-        <option value="package:mine tag:PopassMAinFragment" />
-        <option value="package:mine tag:PopassMainFragment " />
       </list>
     </option>
   </component>
