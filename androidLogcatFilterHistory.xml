@@ -7,9 +7,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:PopassMainFragment tag:PopassViewModel tag:MyReviewListActivity" />
+    <option name="mostRecentlyUsed" value="package:mine tag:PopassMainFragment tag:PopassViewModel tag:MyReviewListActivity tag:ReviewCreateActivity " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PopassMainFragment tag:PopassViewModel tag:MyReviewListActivity tag:ReviewCreateActivity " />
         <option value="package:mine tag:PopassMainFragment tag:PopassViewModel tag:MyReviewListActivity" />
         <option value="package:mine tag:PopassMainFragment tag:PopassViewModel" />
         <option value="package:mine tag:PopassMainFragment " />
@@ -29,7 +30,6 @@
         <option value="package:mine PopassIntroAdapter -&gt; RELEASE" />
         <option value="package:mine RELEASE" />
         <option value="package:mine release" />
-        <option value="package:mine tag:PurchaseInfoFragment tag:ReviewCreateActivity tag:ReviewListActivity result code" />
       </list>
     </option>
   </component>
