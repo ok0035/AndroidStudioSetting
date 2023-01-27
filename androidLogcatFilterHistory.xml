@@ -7,9 +7,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine tag:PopassMainFragment " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PopassMainFragment " />
         <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine tag:SpotDetailActivity " />
@@ -29,7 +30,6 @@
         <option value="package:mine tag:PurchaseInfoFragment tag:ReviewCreateActivity tag:ReviewListActivity result code" />
         <option value="package:mine tag:PurchaseInfoFragment tag:ReviewCreateActivity tag:ReviewListActivity ReviewListActivity " />
         <option value="package:mine tag:PurchaseInfoViewModel" />
-        <option value="package:mine 캐시" />
       </list>
     </option>
   </component>
