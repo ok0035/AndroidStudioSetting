@@ -7,12 +7,12 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:PUrchaseContentListAdapter" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:PUrchaseContentListAdapter" />
         <option value="package:mine tag:SpotDetailFragment " />
-        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine tag:ReviewCreateViewModel" />
         <option value="package:mine tag:PopassMainFragment tag:PopassViewModel tag:MyReviewListActivity tag:ReviewCreateActivity " />
