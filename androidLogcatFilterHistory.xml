@@ -7,12 +7,13 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine tag:SpotDetailFragment 링크" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:SpotDetailFragment 링크" />
+        <option value="package:mine tag:SpotDetailFragment " />
         <option value="package:mine " />
         <option value="package:mine tag:PUrchaseContentListAdapter" />
-        <option value="package:mine tag:SpotDetailFragment " />
         <option value="package:mine" />
         <option value="package:mine tag:ReviewCreateViewModel" />
         <option value="package:mine tag:PopassMainFragment tag:PopassViewModel tag:MyReviewListActivity tag:ReviewCreateActivity " />
@@ -29,7 +30,6 @@
         <option value="package:mine tag:SectionSpot" />
         <option value="package:mine bufferd" />
         <option value="package:mine buffer..." />
-        <option value="package:mine PopassIntroAdapter -&gt; " />
       </list>
     </option>
   </component>
