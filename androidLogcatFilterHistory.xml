@@ -7,9 +7,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:PopassMainFragment" />
+    <option name="mostRecentlyUsed" value="package:mine tag:CourseDetailMapper " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:CourseDetailMapper " />
         <option value="package:mine tag:PopassMainFragment" />
         <option value="package:mine tag:PopassMainFragment is" />
         <option value="package:mine " />
@@ -29,7 +30,6 @@
         <option value="package:mine tag:Purchase" />
         <option value="package:mine tag:SectionSpotFragment tag:SpotDetailFragment" />
         <option value="package:mine tag:SectionSpotFragment" />
-        <option value="package:mine tag:SectionSpot" />
       </list>
     </option>
   </component>
