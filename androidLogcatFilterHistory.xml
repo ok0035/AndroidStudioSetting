@@ -7,9 +7,11 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:MainActivity " />
+    <option name="mostRecentlyUsed" value="package:mine updateNear" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine updateNear" />
+        <option value="package:mine UpdateNear" />
         <option value="package:mine tag:MainActivity " />
         <option value="package:mine tag:NetworkManager" />
         <option value="package:mine " />
@@ -28,8 +30,6 @@
         <option value="package:mine level:error " />
         <option value="package:mine tag:SpotDetailActivity " />
         <option value="package:mine level:error" />
-        <option value="package:mine tag:PurchaseContentListAdapter " />
-        <option value="package:mine tag:Purchase" />
       </list>
     </option>
   </component>
