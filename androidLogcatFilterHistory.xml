@@ -8,9 +8,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine setPager" />
         <option value="package:mine selected page observe" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:MainFragment tag:MainViewModel" />
         <option value="package:mine tag:MainFragment isApp" />
         <option value="package:mine tag:MainFragment" />
-        <option value="package:mine level:error " />
         <option value="package:mine tag:MainViewModel tag:MainHomeFragment" />
         <option value="package:mine tag:MainViewModel" />
         <option value="package:mine call draw" />
