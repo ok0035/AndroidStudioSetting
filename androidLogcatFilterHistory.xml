@@ -2,14 +2,17 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine tag:MainHomeFragment tag:MainViewModel" />
         <option value="package:mine tag:MyReviewListActivity tag:MyReviewListAdapter onCreateViewHolder" />
         <option value="package:mine tag:MainActivity tag:MainHomeFragment level:DEBUG " />
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:MainViewModel tag:MainHomeFragment" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine level:error " />
         <option value="package:mine tag:MainViewModel tag:MainHomeFragment" />
         <option value="package:mine tag:MainViewModel" />
         <option value="package:mine call draw" />
@@ -17,7 +20,6 @@
         <option value="package:mine UpdateNear" />
         <option value="package:mine tag:MainActivity " />
         <option value="package:mine tag:NetworkManager" />
-        <option value="package:mine " />
         <option value="package:mine tag:CourseDetailMapper " />
         <option value="package:mine tag:PopassMainFragment" />
         <option value="package:mine tag:PopassMainFragment is" />
@@ -29,7 +31,6 @@
         <option value="package:mine tag:PopassMainFragment tag:PopassViewModel tag:MyReviewListActivity tag:ReviewCreateActivity " />
         <option value="package:mine tag:PopassMainFragment tag:PopassViewModel tag:MyReviewListActivity" />
         <option value="package:mine tag:PopassMainFragment tag:PopassViewModel" />
-        <option value="package:mine tag:PopassMainFragment " />
       </list>
     </option>
   </component>
