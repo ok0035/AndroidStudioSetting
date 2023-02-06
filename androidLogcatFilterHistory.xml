@@ -8,11 +8,11 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:PopassMainFragment sta" />
+    <option name="mostRecentlyUsed" value="package:mine tag:PopassMainFragment " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:PopassMainFragment sta" />
         <option value="package:mine tag:PopassMainFragment " />
+        <option value="package:mine tag:PopassMainFragment sta" />
         <option value="package:mine resumed" />
         <option value="package:mine" />
         <option value="package:mine level:error " />
