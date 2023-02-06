@@ -8,8 +8,12 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine tag:PopassMainFragment sta" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PopassMainFragment sta" />
+        <option value="package:mine tag:PopassMainFragment " />
+        <option value="package:mine resumed" />
         <option value="package:mine" />
         <option value="package:mine level:error " />
         <option value="package:mine " />
@@ -27,9 +31,6 @@
         <option value="package:mine tag:MainViewModel" />
         <option value="package:mine call draw" />
         <option value="package:mine updateNear" />
-        <option value="package:mine UpdateNear" />
-        <option value="package:mine tag:MainActivity " />
-        <option value="package:mine tag:NetworkManager" />
       </list>
     </option>
   </component>
