@@ -8,13 +8,16 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:ReviewItem tag:ReviewListAdapter " />
+    <option name="mostRecentlyUsed" value="package:mine tag:ReviewListActivity tag:ReviewListHolder" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:ReviewListActivity tag:ReviewListHolder" />
+        <option value="package:mine tag:ReviewListHolder" />
+        <option value="package:mine tag:ReviewListActivity " />
+        <option value="package:mine " />
         <option value="package:mine tag:ReviewItem tag:ReviewListAdapter " />
         <option value="package:mine tag:ReviewItem " />
         <option value="package:mine tag:PopassTicketListAdapter$TicketHolder tag:PopassMainFragment " />
-        <option value="package:mine " />
         <option value="package:mine tag:PopassTicketListAdapter$TicketHolder tag:PopassMainFragment resumed" />
         <option value="package:mine tag:PopassTicketListAdapter$TicketHolder " />
         <option value="package:mine tag:PopassIssueTicketDetailFragment tag:PurchaseInfoFragment  tag:PopassMainFragment " />
@@ -28,9 +31,6 @@
         <option value="package:mine setPager" />
         <option value="package:mine selected page observe" />
         <option value="package:mine is" />
-        <option value="package:mine tag:MainViewModel tag:MainFragment" />
-        <option value="package:mine tag:MainViewModel tag:MainFragment 너를" />
-        <option value="package:mine tag:MainViewModel tag:MainFragment " />
       </list>
     </option>
   </component>
