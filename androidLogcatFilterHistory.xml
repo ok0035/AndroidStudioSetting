@@ -8,9 +8,13 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:PopassIssueTicketDetailFragment tag:PurchaseInfoFragment  tag:PopassMainFragment " />
+    <option name="mostRecentlyUsed" value="package:mine tag:PopassTicketListAdapter$TicketHolder tag:PopassMainFragment " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PopassTicketListAdapter$TicketHolder tag:PopassMainFragment " />
+        <option value="package:mine " />
+        <option value="package:mine tag:PopassTicketListAdapter$TicketHolder tag:PopassMainFragment resumed" />
+        <option value="package:mine tag:PopassTicketListAdapter$TicketHolder " />
         <option value="package:mine tag:PopassIssueTicketDetailFragment tag:PurchaseInfoFragment  tag:PopassMainFragment " />
         <option value="package:mine tag:PopassIssueTicketDetailFragment tag:PurchaseInfoFragment " />
         <option value="package:mine tag:PopassIssueTicketDetailFragment " />
@@ -19,7 +23,6 @@
         <option value="package:mine resumed" />
         <option value="package:mine" />
         <option value="package:mine level:error " />
-        <option value="package:mine " />
         <option value="package:mine setPager" />
         <option value="package:mine selected page observe" />
         <option value="package:mine is" />
@@ -28,9 +31,6 @@
         <option value="package:mine tag:MainViewModel tag:MainFragment " />
         <option value="package:mine tag:MainFragment tag:MainViewModel " />
         <option value="package:mine tag:MainFragment tag:MainViewModel" />
-        <option value="package:mine tag:MainFragment isApp" />
-        <option value="package:mine tag:MainFragment" />
-        <option value="package:mine tag:MainViewModel tag:MainHomeFragment" />
       </list>
     </option>
   </component>
