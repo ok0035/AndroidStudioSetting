@@ -9,9 +9,10 @@
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine sns" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine sns" />
         <option value="package:mine" />
         <option value="package:mine  tag:ReviewListActivity" />
@@ -20,7 +21,6 @@
         <option value="package:mine tag:SnsReviewListViewHolder tag:SpotSnsReviewHolder" />
         <option value="package:mine tag:SnsReviewListViewHolder" />
         <option value="package:mine tag:ReviewListActivity tag:ReviewItemAdapter" />
-        <option value="package:mine " />
         <option value="package:mine tag:ReviewItemAdapter tag:ReviewListActivity " />
         <option value="package:mine tag:ReviewItemAdapter" />
         <option value="package:mine tag:ReviewListActivity tag:ReviewListHolder" />
