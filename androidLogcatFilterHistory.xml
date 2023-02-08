@@ -2,17 +2,19 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine tag:SnsReviewListViewHolder tag:SpotSnsReviewHolder tag:SnsReviewItemAdapter tag:ReviewListActivity" />
         <option value="package:mine tag:MainHomeFragment tag:MainViewModel" />
         <option value="package:mine tag:MyReviewListActivity tag:MyReviewListAdapter onCreateViewHolder" />
         <option value="package:mine tag:MainActivity tag:MainHomeFragment level:DEBUG " />
         <option value="package:mine MainFragment |MainActivity " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine  tag:ReviewListActivity" />
+    <option name="mostRecentlyUsed" value="package:mine sns" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine sns" />
+        <option value="package:mine" />
         <option value="package:mine  tag:ReviewListActivity" />
-        <option value="package:mine tag:SnsReviewListViewHolder tag:SpotSnsReviewHolder tag:SnsReviewItemAdapter tag:ReviewListActivity" />
         <option value="package:mine tag:SnsReviewListViewHolder tag:SpotSnsReviewHolder tag:SnsReviewItemAdapter " />
         <option value="package:mine tag:SnsReviewListViewHolder tag:SpotSnsReviewHolder " />
         <option value="package:mine tag:SnsReviewListViewHolder tag:SpotSnsReviewHolder" />
@@ -30,7 +32,6 @@
         <option value="package:mine tag:PopassTicketListAdapter$TicketHolder tag:PopassMainFragment resumed" />
         <option value="package:mine tag:PopassTicketListAdapter$TicketHolder " />
         <option value="package:mine tag:PopassIssueTicketDetailFragment tag:PurchaseInfoFragment  tag:PopassMainFragment " />
-        <option value="package:mine tag:PopassIssueTicketDetailFragment tag:PurchaseInfoFragment " />
       </list>
     </option>
   </component>
